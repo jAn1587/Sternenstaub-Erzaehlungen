@@ -21,16 +21,17 @@ body {
 /* Top Bar with Logo */
 .top-bar {
   background: #ffffff;
-  padding: 2% 20px;
+  padding: 0.8% 10px;
   display: flex;
   justify-content: flex-end;
   align-items: center;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   position: sticky;
+  
 }
 
 .top-bar .logo img {
-  max-height: 50px;
+  max-height: 10vh;
 }
 
 /* Background */
