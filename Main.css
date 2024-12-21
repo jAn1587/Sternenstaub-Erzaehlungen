@@ -158,7 +158,7 @@ body {
 /* Grid Layout */
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   max-width: 1200px;
   margin: 40px auto;
   gap: 40px;
